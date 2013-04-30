@@ -1,0 +1,8 @@
+#java file
+
+
+#log file
+*.log
+
+#temporary file
+*~

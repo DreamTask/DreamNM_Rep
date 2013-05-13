@@ -1,5 +1,8 @@
 #java file
 
+#dir
+/.idea
+/target
 
 #log file
 *.log

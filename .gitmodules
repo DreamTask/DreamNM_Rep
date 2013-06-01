@@ -1,0 +1,3 @@
+[submodule "src/engine/go"]
+	path = src/engine/go
+	url = https://github.com/runner-mei/meijing.git
